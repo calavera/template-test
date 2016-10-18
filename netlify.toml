@@ -1,0 +1,5 @@
+[template]
+  incoming-hooks = ["Contentful", "DatoCMS"]
+
+[template.environment]
+  CONTENTFUL_TOKEN = "change me"
