@@ -1,5 +1,5 @@
 [build]
-  command = "./script.sh"
+  command = "./build.sh"
 
 [template]
   incoming-hooks = ["Contentful", "DatoCMS"]
