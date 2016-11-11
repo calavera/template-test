@@ -1,5 +1,6 @@
 [build]
   command = "./build.sh"
+  publish = "dist"
 
 [template]
   incoming-hooks = ["Contentful", "DatoCMS"]
