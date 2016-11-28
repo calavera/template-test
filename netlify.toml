@@ -7,5 +7,5 @@
 
 [template.environment]
   CONTENTFUL_TOKEN = "change me"
-  LOGO = "/images/default-logo.svg"
-  CONTACT = "contact@acme.com"
+  DEFAULT_LOGO = "/images/default-logo.svg"
+  DEFAULT_CONTACT = "contact@acme.com"
