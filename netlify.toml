@@ -2,9 +2,6 @@
   command = "./build.sh"
   publish = "dist"
 
-[template]
-  incoming-hooks = ["Contentful", "DatoCMS"]
-
 [template.environment]
   CONTENTFUL_TOKEN = "change me"
   DEFAULT_LOGO = "/images/default-logo.svg"
