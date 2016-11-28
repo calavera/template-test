@@ -7,3 +7,4 @@
 
 [template.environment]
   CONTENTFUL_TOKEN = "change me"
+  LOGO = "/images/default-logo.svg"
